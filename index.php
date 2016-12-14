@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 	<head>
-		<title>Encrypt Dennis</title>
+		<title>Encrypt Dennis - Mijn dikke vette lijf.</title>
 	</head>
 	<body>
 		<?php
